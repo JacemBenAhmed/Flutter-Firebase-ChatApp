@@ -1,16 +1,5 @@
 # chat_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app1](https://github.com/JacemBenAhmed/Flutter-Firebase-ChatApp/assets/133594346/9261a910-bef8-4aed-a00a-7284ff53b9a2)
+![app2](https://github.com/JacemBenAhmed/Flutter-Firebase-ChatApp/assets/133594346/32731c3a-c079-455c-95ee-7896eb38a089)
+![app3](https://github.com/JacemBenAhmed/Flutter-Firebase-ChatApp/assets/133594346/e6d4717e-c368-46d3-a5aa-52c9f05b5d80)
